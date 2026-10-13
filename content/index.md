@@ -1,6 +1,6 @@
 # Flutterbee Snuggery
 
-![A bee polinating a flower](/images/beephoto1.png)
+![A bee polinating a flower](/images/beephoto1.webp)
 
 Our frontyard garden is dedicated to helping indigenous pollinators thrive. This website will be dedicated to explaining the plants we care for, the pollinators who thrive on it, the weeds we remove, and the work we do to tend to this garden. 
 
