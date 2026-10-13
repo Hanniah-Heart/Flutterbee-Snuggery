@@ -1,0 +1,6 @@
+# Generated Files
+__pycache__/
+*.swp
+*.save
+private/
+*:Zone.Identifier
