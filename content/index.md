@@ -8,10 +8,16 @@ More content will be coming to this website soon.
 
 ## Pages
 
-- [Plant Catalogue](/plants)
-- [Pollinators](/pollinators)
-- [Weeds We Remove](/weeds)
-- [Gardening Work](/work)
-- [Formal Accolades and Overhead](/formal)
+![A spotted beebalm standing amidst other plants](/images/SpottedBeebalm1a.png)
+- [Plant: Spotted Beebalm](/plants/spotted_beebalm)
+
+![The purple fiber-ball-like head of a Mimosa Strigilosa standing in the midst of its ground cover](images/MimosaStrigilosa1a.png)
+- Plant: Mimosa Strigilosa (coming soon)
+
+- Other Plants (coming soon)
+- Pollinators (coming soon)
+- Weeds We Remove (coming soon)
+- Gardening Work (coming soon)
+- Formal Accolades and Overhead (coming soon)
 
 Website created by Hanniah Heart, computer programmer, family member, garden hand.
